@@ -10,13 +10,8 @@ A hyper-casual mobile game made in Unity where you pop white eggs and avoid red 
 
 Built with ❤️ using Unity 6.0 for Android.
 
-## Screenshots
-(Add here if needed)
 
 ## How to Play
 - Tap white eggs to pop them.
 - Avoid tapping red eggs.
 - Don’t let white eggs fall!
-
-## License
-MIT
