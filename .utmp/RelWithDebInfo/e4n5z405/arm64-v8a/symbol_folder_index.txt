@@ -1,0 +1,1 @@
+C:\Users\Administrator\UnityProjects\EggTapper\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\e4n5z405\obj\arm64-v8a
